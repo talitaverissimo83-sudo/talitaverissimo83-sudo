@@ -98,3 +98,11 @@ Sou estudante de \*\*Desenvolvimento de Sistemas\*\* e estou aprendendo sobre \*
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-verissimo-de-farias-a53826412/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/talita-verissimo83-sudo)
+
+---
+
+## 🐍 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/talitaverissimo83-sudo/talitaverissimo83-sudo/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
