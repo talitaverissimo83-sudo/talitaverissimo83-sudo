@@ -15,7 +15,6 @@ Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando aprender co
 
 - 🐍 Python
 - 🧑‍💻 GitHub
-- 💻 CMD
 - 📊 Flowgorithm
 - 🌐 HTML
 - 🎨 CSS
