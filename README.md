@@ -1,63 +1,58 @@
-\# 👋 Olá! Eu sou \Talita
+# 👋 Olá! Eu sou a Talita!
 
+🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
+📚 Estudante do Ensino Médio no SESI
 
+---
 
-Sou estudante de \*\*Desenvolvimento de Sistemas\*\* e estou aprendendo sobre \*\*GitHub\*\*, \*\*programação\*\* e \*\*criação de projetos web e mobile\*\*. Tenho interesse especial em \HTML, CSS, Sistemas operacionais, banco de dados
+## 💻 Sobre mim
 
+Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando aprender coisas novas na área de tecnologia. Tenho interesse em desenvolvimento web, programação e criação de projetos.
 
+---
 
-\---
+## 🛠️ Tecnologias
 
-\## 🚀 Meus Projetos
+- 🐍 Python
+- 🧑‍💻 GitHub
+- 💻 CMD
+- 📊 Flowgorithm
+- 🌐 HTML
+- 🎨 CSS
+- 🗄️ MySQL
 
+---
 
+## 🎓 Formação
 
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
+**Desenvolvimento de Sistemas — SENAI**
 
-|-----------------------|-------------------------------------|--------------------------|
+**Ensino Médio — SESI**
 
-| Tabela Brasileirão | \[🔗 Ver online](https://seu-link.com) | HTML        |
+---
 
-| Link na Bio | \[🔗 Ver online](https://seu-link.com) | HTML, CSS |
+## 🚀 Meus projetos
 
-| Flex-Box | \[🔗 Ver online](https://seu-link.com) | HTML, CSS           |
+| Projeto | Descrição | Tecnologias | Link |
+|---|---|---|---|
+| 🌴 Tabela do Brasileirão | Página com a tabela e informações do Campeonato Brasileiro | HTML | [Ver projeto](https://seu-link.com) |
+| 📖 Site de Biografia | Site desenvolvido para apresentar a biografia de uma celebridade | HTML, CSS | [Ver projeto](https://seu-link.com) |
+| 🔗 Link na Bio | Página no estilo Link na Bio | HTML, CSS | [Ver projeto](https://seu-link.com) |
+| 📦 Flex-Box | Projeto para praticar Flexbox | HTML, CSS | [Ver projeto](https://seu-link.com) |
 
+---
 
+## 📊 GitHub
 
-\---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talitaverissimo83-sudo&show_icons=true&theme=default)
 
-
-
-\## 💡 Sobre Mim
-
-
-
-\- 🎓 Atualmente estudo no \*\*\SESI/SENAI\*\*
-
-\- 💻 Estou aprendendo \*\*\Desenvolvimento de Sistemas no Senai\*\*
-
-\- 🎯 Meu objetivo é \*\*\Ser desenvolvedora web\*\*
-
-\- 📚 Gosto de aprender sobre \*\*\HTML, poesia, receitas\*\*
-
-\- ✝ \Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortalecerei, e te ajudarei, e te sustentarei com a destra da minha justiça."
-
-
-
-\---
-
-
-
-\## 📫 Como me encontrar
-
-
+---
 
 ## 📱 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-verissimo-de-farias-a53826412/)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/talita-verissimo83-sudo)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/talitaverissimo83-sudo)
 ---
 
 ## 🐍 Minha atividade no GitHub
